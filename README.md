@@ -1,3 +1,2 @@
-# testing
-this is testing purpose
-Install as New Ec2 Instance
+Infrastructure as code
+To run the code and create a New Amazon Instance
